@@ -1,2 +1,3 @@
 # GitHubClass
- Curso em Video
+ Curso em Video, aprendendo a joça do github
+
